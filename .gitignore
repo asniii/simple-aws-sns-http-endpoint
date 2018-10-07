@@ -1,0 +1,23 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.log
+
+# Eclipse project files
+.project
+.classpath
+.settings
+.DS_Store
+
+# Other project gen files
+target
+temp
+tmp
+bower_components
+.metadata
+CATALINA_HOME_IS_UNDEFINED
+node_modules
+logs
+dist
